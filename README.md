@@ -1,6 +1,6 @@
 # Photodiode
 
-Analog photodiode for general use.
+General photodiode to synchronize screens (or other light source) with behavior.
 
 # Licensing
 
